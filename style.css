@@ -1,0 +1,32 @@
+html{background-color: black;
+     }
+
+#main{margin:50px 50px 50px 100px;
+      background-color:black;
+      border-width : 10px 10px 100px 10px;
+      border-color:  black; 
+      border-style: solid;
+      height: 300px;
+      width: 900px;
+     }
+
+img[src]{width : 100%;
+            height: 280px;
+             border-width : 5px 5px 5px 5px ;
+             border-style:solid;
+             border-color: gold;
+   }     
+
+h1{  text-transform: uppercase;
+     font-weight: 900;
+     text-align: center;
+     color: white;
+     font-size:xx-large ;
+    }   
+
+p{  
+   color: white;
+   text-align: center;
+   font-family: cursive;
+   font-size: large;
+   }
